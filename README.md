@@ -1,5 +1,5 @@
 # Electron-React-JS
-Blank project for use Electron with React JS
+Model project for use Electron with React JS
 
 
 - npm install
