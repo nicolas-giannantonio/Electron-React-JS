@@ -1,6 +1,7 @@
 # Electron-React-JS
-Model project for use Electron with React JS
 
+```bash
+npm install
 
-- npm install
-- npm run start
+npm run start
+```
